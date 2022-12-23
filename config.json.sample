@@ -1,0 +1,39 @@
+{
+    "bot" : {
+        "Description" : "",
+        "id" : "",
+        "main_guildId" : "",
+        "commandsDir" : "",
+        "eventsDir" : ""
+    },
+    "colors" : {
+        "verde_lima" : "",
+        "amarillo_patito" : "",
+        "azul_celeste" : "",
+        "azul_mar" : "",
+        "gris_feo" : "",
+        "rojo_poderoso" : "",
+        "verde_arbol" : "",
+        "amarillo_chelas" : "",
+        "naranja_ninja" : "",
+        "rosado_booster" : ""
+    },
+    "role_ids" : {
+        "jefe" : "",
+        "jefe_configurador" : "",
+        "admin" : "",
+        "admin_fake" : "",
+        "developer" : "",
+        "configurador" : "",
+        "s_mod" : "",
+        "mod" : "",
+        "builder" : "",
+        "trial_mod" : "",
+        "helper" : ""
+    },
+    "channel_categories" : {
+        "tickets" : "",
+        "tickets_cerrados" : "",
+        "staff" : ""
+    }
+}

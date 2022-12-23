@@ -1,0 +1,25 @@
+{
+  "name": "bot-la-mafia-de-los-mundos",
+  "version": "1.0.0",
+  "description": "Bot oficial de La Mafia de los Mundos",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilleniumMods/Bot-La-Mafia-de-Los-Mundos.git"
+  },
+  "author": "MilleniumMods, Martín Rubina",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MilleniumMods/Bot-La-Mafia-de-Los-Mundos/issues"
+  },
+  "homepage": "https://github.com/MilleniumMods/Bot-La-Mafia-de-Los-Mundos#readme",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.7.1",
+    "ms": "^2.1.3",
+    "quick.db": "^9.0.8"
+  }
+}
